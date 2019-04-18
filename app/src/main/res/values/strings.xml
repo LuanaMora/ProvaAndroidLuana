@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ProvaAndroidLuana</string>
+    <string name="action_settings">Settings</string>
+    <string name="etAssunto">Assunto</string>
+    <string name="etContato">Contato</string>
+    <string name="etTelefone">Telefone</string>
+    <string name="etEmail">Email</string>
+    <string name="dtData">Data(DD/MM/YYYY)</string>
+    <string name="etEmpresa">Empresa</string>
+    <string name="btSalvar">Salvar</string>
+    <string name="btCancelar">Cancelar</string>
+    <string name="btEditar">Editar</string>
+    <string name="btExcluir">Excluir</string>
+
+
+
+    <string-array name="tipoAtendimento">
+        <item>Erro</item>
+        <item>Melhoria</item>
+        <item>Ajuda</item>
+    </string-array>
+</resources>
